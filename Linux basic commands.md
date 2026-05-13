@@ -1312,24 +1312,6 @@ sudo apt install ansible
         state: present
 ```
 
-
----
-
----
-
-## Course Delivery — Weekly Structure
-
-| Week   | Topic                    |
-|--------|--------------------------|
-| Week 1 | Linux Fundamentals       |
-| Week 2 | File Management          |
-| Week 3 | Permissions & Users      |
-| Week 4 | Networking & Services    |
-| Week 5 | Bash Scripting           |
-| Week 6 | Advanced Automation      |
-| Week 7 | Security & Monitoring    |
-| Week 8 | Final Project            |
-
 ---
 
 ## Certification Preparation
